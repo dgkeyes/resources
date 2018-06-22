@@ -1,5 +1,7 @@
 Resources for creating maps within R
 
+# Mapping packages
+
 *   [ggmap](https://github.com/dkahle/ggmap)
 *   [Leaflet](https://rstudio.github.io/leaflet/)
 
