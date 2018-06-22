@@ -1,7 +1,7 @@
-# General
+## General
 
 
-# Inspiration
+## Inspiration
 
 
 
@@ -9,7 +9,7 @@
 *   [Hypershoot](https://hypershoot.com/en/app#/library)
 
 
-# Stock photos etc
+## Stock photos etc
 
 
 
@@ -22,17 +22,22 @@
 *   [Canva list of stock photo sources](https://designschool.canva.com/blog/free-stock-photos/)
 *   [Colorstock](https://getcolorstock.com/)
 *   [Morguefile](https://morguefile.com/)
-*   [TunePocket](https://www.tunepocket.com/?ref=producthunt) (stock music)
+*   [Burst](https://burst.shopify.com/)
+*   [StockSnap](https://stocksnap.io/)
+*   [ISO Republic](https://isorepublic.com/)
+*   [freeimages.com](https://www.freeimages.com/)
 
 
-# Stock Audio
+## Stock Audio
 
 
 
 *   [Audio Explorer](https://download.audiohero.com/#!explorer)
+*   [TunePocket](https://www.tunepocket.com/?ref=producthunt) (stock music)
+*   [Fugue](https://icons8.com/music/)
 
 
-# Typography
+## Typography
 
 
 
@@ -46,7 +51,7 @@
 *   [Free Handwriting Fonts](http://www.creativebloq.com/typography/best-handwriting-fonts-12121527?utm_content=buffere86cc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 
-# Icons
+## Icons
 
 
 
@@ -73,9 +78,10 @@
 *   [Icon54](https://icon54.com/)
 *   [PixelIcons](https://pixelicons.com/free-pack/?ref=producthunt)
 *   [Icontellyou](https://icontellyou.com/)
+*   [RoundIcons](https://roundicons.com/)
 
 
-# Colors
+## Colors
 
 
 
@@ -89,7 +95,7 @@
 *   [CSS Gradient Generator](https://cssgradient.io/)
 
 
-# Avatars
+## Avatars
 
 
 
@@ -97,7 +103,7 @@
 *   [UI Faces](https://uifaces.co/)
 
 
-# Misc
+## Misc
 
 
 
@@ -105,20 +111,20 @@
 *   [Sketch Isometric Plugin](https://github.com/sureskumar/sketch-isometric?ref=producthunt)
 
 
-# 
+## 
 
 
-# Website Design
+## Website Design
 
 
-# General
+## General
 
 
 
 *   [Little UI Details](https://twitter.com/i/moments/880688233641848832)
 
 
-# Inspiration
+## Inspiration
 
 
 
@@ -127,7 +133,6 @@
 *   [Site of the Day](http://www.awwwards.com/awards-of-the-day/)
 *   [The Best Designs](https://www.thebestdesigns.com/)
 *   [Unmatched Style](http://unmatchedstyle.com/)
-*   [Design Shack](https://designshack.net/)
 *   [Anders Noren](http://www.andersnoren.se/)
 *   [LandingFolio](http://www.landingfolio.com/)
 *   [Lapa](http://lapa.ninja/?ref=producthunt)
@@ -141,7 +146,7 @@
 *   [pages.xyz](https://www.pages.xyz/?ref=producthunt)
 
 
-# Genesis
+## Genesis
 
 
 
@@ -150,7 +155,7 @@
 *   [StudioPress forums](http://www.studiopress.com/forums/)
 
 
-# Wireframing
+## Wireframing
 
 
 
@@ -158,7 +163,7 @@
 *   [Invision](https://www.invisionapp.com/)
 
 
-# WordPress Plugins
+## WordPress Plugins
 
 
 
@@ -180,7 +185,7 @@
 *   [Swift Performance](https://swiftperformance.io/)
 
 
-# Accessibility
+## Accessibility
 
 
 
@@ -191,7 +196,7 @@
 *   [UK Home Office posters on accessibility](https://github.com/UKHomeOffice/posters/blob/master/accessibility/posters_en-UK/accessibility-posters-set.pdf)
 
 
-# Image optimization
+## Image optimization
 
 
 
@@ -199,7 +204,7 @@
 *   [ImageOptim](https://imageoptim.com/)
 
 
-# Backgrounds
+## Backgrounds
 
 
 
@@ -210,7 +215,7 @@
 *   [GeoPattern](http://btmills.github.io/geopattern/)
 
 
-#  \
+##  \
 Screenshots
 
 
@@ -219,13 +224,13 @@ Screenshots
 *   [Multi-browser screenshots](https://chrome.google.com/webstore/detail/multi-browser-screenshots/dhaknibfbngnmflbejdkliedmjmbjojk?ref=producthunt)
 
 
-# 
+## 
 
 
-# Data Viz
+## Data Viz
 
 
-# General
+## General
 
 
 
@@ -235,7 +240,7 @@ Screenshots
 *   [Data Viz for All book](https://www.datavizforall.org/)
 
 
-# Inspiration
+## Inspiration
 
 
 
@@ -254,9 +259,10 @@ Screenshots
 *   [Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
 *   [Data Viz Catalogue](https://datavizcatalogue.com/)
 *   [RJ Andrews](http://infowetrust.com/about/)
+*   [R Graph Gallery](https://www.r-graph-gallery.com/)
 
 
-# Infographics
+## Infographics
 
 
 
@@ -269,17 +275,17 @@ Screenshots
 *   [Visme guide to creating infographics](https://www.visme.co/wp-content/uploads/2017/03/How%20to%20Make%20an%20Infographic%20-%20A%20Visual%20Guide%20for%20Beginners%20By%20Visme.pdf)
 
 
-# Qualitative Data
+## Qualitative Data
 
 
 
 *   [Stephanie Evergreen qualitative chart chooser](http://stephanieevergreen.com/qualitative-chart-chooser-3/)
 
 
-# Reports
+## Reports
 
 
-# Report guides
+## Report guides
 
 
 
@@ -287,7 +293,7 @@ Screenshots
 *   [Kauffman Foundation Evaluation Reporting Guide](http://www.kauffman.org/-/media/kauffman_org/evaluation/emkf-evaluation-report-guide-2017.pdf)
 
 
-# Good paper reports
+## Good paper reports
 
 
 
@@ -295,7 +301,7 @@ Screenshots
 *   [TechnoServe annual report 2016 that Ann Emery worked on](http://www.technoserve.org/files/downloads/2016-impact-report.pdf)
 
 
-# Digital reports
+## Digital reports
 
 
 
@@ -304,10 +310,10 @@ Screenshots
 *   [Hidden Digital Divide](http://m.scidev.net/index.cfm?originalUrl=global/icts/data-visualisation/digital-divide-data-interactive.html)
 
 
-# 
+## 
 
 
-# Digital Storytelling
+## Digital Storytelling
 
 
 
@@ -317,24 +323,25 @@ Screenshots
 *   [TimelineJS](https://timeline.knightlab.com/)
 
 
-# 
+## 
 
 
-# R
+## R
 
 
 
 *   [Kieran Healy book on data viz in R](http://vissoc.co/)
 
 
-# RMarkdown
+## RMarkdown
 
 
 
 *   [Convert Google Docs to Markdown](https://github.com/mangini/gdocs2md)
+*   [Pinp (2 column PDF output)](https://github.com/eddelbuettel/pinp)
 
 
-# R tutorials
+## R tutorials
 
 
 
@@ -342,24 +349,24 @@ Screenshots
 *   [R for data science](http://r4ds.had.co.nz/)
 
 
-# R packages
+## R packages
 
 
-## General
+### General
 
 
 
 *   [RStudio recommended packages](https://github.com/rstudio/RStartHere)
 
 
-## Tables
+### Tables
 
 
 
 *   [Flextable](https://davidgohel.github.io/flextable/articles/overview.html)
 
 
-## Interactivity
+### Interactivity
 
 
 
@@ -370,7 +377,7 @@ Screenshots
 *   [Trelliscope](https://hafen.github.io/trelliscopejs/index.html)
 
 
-## Maps
+### Maps
 
 
 
@@ -379,14 +386,14 @@ Screenshots
 *   [Rmaps](https://github.com/ramnathv/rMaps)
 
 
-## Data analysis
+### Data analysis
 
 
 
 *   [Skimr](https://github.com/ropenscilabs/skimr)
 
 
-## Data manipulation
+### Data manipulation
 
 
 
@@ -395,14 +402,14 @@ Screenshots
 *   [Janitor](https://github.com/sfirke/janitor/blob/master/README.md) (data cleaning)
 
 
-## Data gathering
+### Data gathering
 
 
 
 *   [Datapasta](https://github.com/MilesMcBain/datapasta) (pasting directly from external docs)
 
 
-## Data visualization
+### Data visualization
 
 
 
@@ -414,7 +421,7 @@ Screenshots
 *   [gghighlight](https://github.com/yutannihilation/gghighlight)
 
 
-## Misc
+### Misc
 
 
 
@@ -422,17 +429,19 @@ Screenshots
 *   [Tidycensus](https://github.com/walkerke/tidycensus)
 
 
-## Shiny-like
+### Shiny-like
 
 
 
 *   [Crosstalk](https://rstudio.github.io/crosstalk/using.html)
 
 
-# Misc
+## Misc
+
+
+### Geocoding
 
 
 
 *   [Geocoder](https://geocode.localfocus.nl/)
-
-<!-- GD2md-html version 1.0β11 -->
+*   [Opencage](https://ropensci.org/tutorials/opencage_tutorial/) (R)
