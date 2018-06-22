@@ -3,7 +3,6 @@
 *   [Site of the Day](http://www.awwwards.com/awards-of-the-day/)
 *   [The Best Designs](https://www.thebestdesigns.com/)
 *   [Unmatched Style](http://unmatchedstyle.com/)
-*   [Anders Noren](http://www.andersnoren.se/)
 *   [LandingFolio](http://www.landingfolio.com/)
 *   [Lapa](http://lapa.ninja/?ref=producthunt)
 *   [CSS Reference](http://cssreference.io/)
