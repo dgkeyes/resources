@@ -1,6 +1,6 @@
 Stock photos, videos, and audio
 
-## Stock photos etc
+# Stock photos
 
 *   [Pexels](https://www.pexels.com/)
 *   [Unsplash](https://unsplash.com/)
@@ -17,7 +17,11 @@ Stock photos, videos, and audio
 *   [freeimages.com](https://www.freeimages.com/)
 
 
-## Stock Audio
+# Stock video
+
+* [Pexels videos](https://videos.pexels.com/)
+
+# Stock audio
 
 *   [Audio Explorer](https://download.audiohero.com/#!explorer)
 *   [TunePocket](https://www.tunepocket.com/?ref=producthunt) (stock music)
