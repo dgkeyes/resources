@@ -1,5 +1,3 @@
-Stock photos, videos, and audio
-
 # Stock photos
 
 *   [Pexels](https://www.pexels.com/)
