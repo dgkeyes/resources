@@ -17,3 +17,4 @@
 *   [ggalt](https://github.com/hrbrmstr/ggalt) (lollipops, dumbells, etc.)
 *   [We the People](https://github.com/propublica/weepeople) (font to use in visualizations that shows people)
 *   [gghighlight](https://github.com/yutannihilation/gghighlight)
+* [ggbeeswarm](https://github.com/eclarke/ggbeeswarm)
