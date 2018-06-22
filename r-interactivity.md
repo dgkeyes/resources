@@ -1,6 +1,9 @@
-# Resources for creating interactive visualizations within R
+# Shiny
 
-In addition to Shiny, some ways to make R visualizations interactive:
+* [DataCamp course on Shiny](https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny)
+* [Ted Laderas intro to Shiny](https://laderast.github.io/gradual_shiny/)
+
+# Resources for creating interactive visualizations within R
 
 *   [ggiraph](https://davidgohel.github.io/ggiraph/index.html)
 *   [Plotly](https://plot.ly/r/)
