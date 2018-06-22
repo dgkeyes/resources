@@ -1,6 +1,5 @@
-[Dashicons](https://developer.wordpress.org/resource/dashicons/)
-
-[Genericons](https://genericons.com/)
+* [Dashicons](https://developer.wordpress.org/resource/dashicons/)
+* [Genericons](https://genericons.com/)
 *   [Ionicons](http://ionicons.com/)
 *   [Font Awesome](http://fontawesome.io/)
 *   [Flaticon](http://www.flaticon.com/)
