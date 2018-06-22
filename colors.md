@@ -1,3 +1,5 @@
+# Resources to find and organize color palettes
+
 *   [Palettable](http://www.palettable.io/)
 *   [Coolors](https://coolors.co/)
 *   [Carto (map colors)](https://carto.com/carto-colors/)
