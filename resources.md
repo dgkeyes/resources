@@ -9,32 +9,7 @@
 *   [Hypershoot](https://hypershoot.com/en/app#/library)
 
 
-## Stock photos etc
 
-
-
-*   [Pexels](https://www.pexels.com/)
-*   [Unsplash](https://unsplash.com/)
-*   [Pixabay](https://pixabay.com/)
-*   [Gratisography](http://www.gratisography.com/)
-*   [Diverse UI](http://www.diverseui.com/)
-*   [Stocky](http://stocky.pro/)
-*   [Canva list of stock photo sources](https://designschool.canva.com/blog/free-stock-photos/)
-*   [Colorstock](https://getcolorstock.com/)
-*   [Morguefile](https://morguefile.com/)
-*   [Burst](https://burst.shopify.com/)
-*   [StockSnap](https://stocksnap.io/)
-*   [ISO Republic](https://isorepublic.com/)
-*   [freeimages.com](https://www.freeimages.com/)
-
-
-## Stock Audio
-
-
-
-*   [Audio Explorer](https://download.audiohero.com/#!explorer)
-*   [TunePocket](https://www.tunepocket.com/?ref=producthunt) (stock music)
-*   [Fugue](https://icons8.com/music/)
 
 
 ## Typography
@@ -51,48 +26,10 @@
 *   [Free Handwriting Fonts](http://www.creativebloq.com/typography/best-handwriting-fonts-12121527?utm_content=buffere86cc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 
-## Icons
 
 
 
-*   [Dashicons](https://developer.wordpress.org/resource/dashicons/)
-*   [Genericons](https://genericons.com/)
-*   [Ionicons](http://ionicons.com/)
-*   [Font Awesome](http://fontawesome.io/)
-*   [Flaticon](http://www.flaticon.com/)
-*   [The Noun Project](https://thenounproject.com/)
-*   [IcoMoon](https://icomoon.io/)
-*   [Minimal icons](https://dribbble.com/shots/2888226-1800-Free-Minimal-Icon-Pack-20x20)
-*   [77 Essential Icons](http://bryntaylor.co.uk/work/77-essential-icons/)
-*   [Symbolset](https://symbolset.com/icons)
-*   [To Icon](http://www.toicon.com/series/open)
-*   [Zondicons](http://www.zondicons.com/)
-*   [Materidal Design Icons](https://materialdesignicons.com/)
-*   [Material.io icons](https://material.io/icons/)
-*   [Fontello](http://fontello.com/)
-*   [Heroicons](http://www.heroicons.com/)
-*   [iOS 11 glphys](https://icons8.com/ios?ref=producthunt)
-*   [Iconbros](https://www.iconbros.com/?ref=producthunt)
-*   [Feather](https://feathericons.com/?ref=producthunt)
-*   [Tangrams](https://github.com/tangrams/icons)
-*   [Icon54](https://icon54.com/)
-*   [PixelIcons](https://pixelicons.com/free-pack/?ref=producthunt)
-*   [Icontellyou](https://icontellyou.com/)
-*   [RoundIcons](https://roundicons.com/)
 
-
-## Colors
-
-
-
-*   [Palettable](http://www.palettable.io/)
-*   [Coolors](https://coolors.co/)
-*   [Carto (map colors)](https://carto.com/carto-colors/)
-*   [Sketch gradients](https://gumroad.com/l/gradients?ref=producthunt)
-*   [Color scheme generator](http://www.donesmart.com/free-online-tools/online-color-scheme-generator-picker/?ref=producthunt)
-*   [Pigment](https://pigment.shapefactory.co/?p=28&l=44)
-*   [GradPad](http://ourownthing.co.uk/gradpad.html?ref=producthunt) (gradients)
-*   [CSS Gradient Generator](https://cssgradient.io/)
 
 
 ## Avatars
