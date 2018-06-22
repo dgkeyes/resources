@@ -3,6 +3,7 @@
 *   [Data is Beautiful](https://www.reddit.com/r/dataisbeautiful/)
 *   [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase?award=2017&pcategory=short-list&type=awards)
 *   [Stephanie Evergreen chart chooser](https://facultycenter.stonybrook.edu/sites/facultycenter.stonybrook.edu/files/basic-pages/966/images/charts.jpg)
+*   [Stephanie Evergreen qualitative chart chooser](http://stephanieevergreen.com/qualitative-chart-chooser-3/)
 *   [My Visual Sidekick](http://myvisualsidekick.org/)
 *   [My Visual Voice](http://myvisualvoice.com/portfolio)
 *   [Data Viz Project](http://datavizproject.com/)
