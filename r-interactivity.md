@@ -2,7 +2,7 @@
 
 In addition to Shiny, some ways to make R visualizations interactive:
 
-*   [Ggiraph](https://davidgohel.github.io/ggiraph/index.html)
+*   [ggiraph](https://davidgohel.github.io/ggiraph/index.html)
 *   [Plotly](https://plot.ly/r/)
 *   [googleVis](https://github.com/mages/googleVis)
 *   [widgetframe](https://github.com/bhaskarvk/widgetframe) (put R htmlwidgets in iframes for embedding in WP etc)
