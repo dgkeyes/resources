@@ -25,7 +25,7 @@ Resources I use in my work. See [dgkeyes.com](https://dgkeyes.com)
 [Print reports](print-reports.md): Examples of good print (well, really, PDF) reports
 
 # R
-[Data manipulation and analysis](r-data-analysis-manipulation.md): Using R for basic data work, with an emphasis on Tidyverse tools
+[Data manipulation and analysis](r-data-analysis-and-manipulation.md): Using R for basic data work, with an emphasis on Tidyverse tools
 
 [Interactivity](r-interactivity.md): Using R to make interactive charts, maps, etc.
 
