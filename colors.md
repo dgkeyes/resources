@@ -8,3 +8,4 @@
 *   [Pigment](https://pigment.shapefactory.co/?p=28&l=44)
 *   [GradPad](http://ourownthing.co.uk/gradpad.html?ref=producthunt) (gradients)
 *   [CSS Gradient Generator](https://cssgradient.io/)
+- [paletteer](https://github.com/EmilHvitfeldt/paletteer): R package that collects color palettes
