@@ -26,3 +26,7 @@
 # Colors
 
 - [paletteer](https://github.com/EmilHvitfeldt/paletteer): R package that collects color palettes
+
+# Fonts
+
+- [extrafont](https://github.com/wch/extrafont)
