@@ -1,5 +1,9 @@
 Resources I use in my work. See [dgkeyes.com](https://dgkeyes.com)
 
+# Tools
+
+[Tools](tools.md): A list of tools to do various design-y things
+
 # General
 [Backgrounds](backgrounds.md): Background ideas, generators, etc.
 
