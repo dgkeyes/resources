@@ -6,3 +6,4 @@
 *   [Anders Noren](http://www.andersnoren.se/)
 *   [Typeworld](http://type.world/)
 *   [Free Handwriting Fonts](http://www.creativebloq.com/typography/best-handwriting-fonts-12121527?utm_content=buffere86cc&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [Fonty](http://fonty.dizoo.bg/): Test fonts on live websites
