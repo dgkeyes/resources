@@ -17,3 +17,4 @@
 *   [Data Viz Catalogue](https://datavizcatalogue.com/)
 *   [RJ Andrews](http://infowetrust.com/about/)
 *   [R Graph Gallery](https://www.r-graph-gallery.com/)
+*   [From Data to Viz](https://www.data-to-viz.com/)  
