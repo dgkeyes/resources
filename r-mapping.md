@@ -11,7 +11,9 @@ Resources for creating maps within R
 *   [ggmap](https://github.com/dkahle/ggmap)
 *   [Leaflet](https://rstudio.github.io/leaflet/)
 * [sp](https://github.com/edzer/sp/)
-* [geofacet](https://github.com/hafen/geofacet)
+* [geofacet](https://github.com/hafen/geofacet): Make super cool faceted maps like this one:
+
+![](https://cloud.githubusercontent.com/assets/1275592/26282369/611ab89e-3dc5-11e7-86eb-65685cc2948b.png)
 
 # Geocoding
 
