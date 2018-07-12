@@ -4,4 +4,5 @@
 *   [Pinterest infographics](https://www.pinterest.com/search/?q=infographics)
 *   [Piktograph](https://magic.piktochart.com/gallery)
 *   [Office of Jane](https://officeofjane.com/)
+*   [Paste in Place](http://www.pasteinplace.com/Projects)
 *   [Visme guide to creating infographics](https://www.visme.co/wp-content/uploads/2017/03/How%20to%20Make%20an%20Infographic%20-%20A%20Visual%20Guide%20for%20Beginners%20By%20Visme.pdf)
