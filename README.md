@@ -21,6 +21,8 @@ Resources I use in my work. See [dgkeyes.com](https://dgkeyes.com)
 [Web inspiration](web-inspiration.md): Websites I particularly like
 
 # Data viz
+[Data viz research](dataviz-research.md): Research about data visualization
+
 [Data viz inspiration](dataviz-inspiration.md): Tool-agnostic examples of good data visualization
 
 # Static reports
