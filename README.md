@@ -42,3 +42,5 @@ Resources I use in my work. See [dgkeyes.com](https://dgkeyes.com)
 [Qualitative data analysis](r-qualitative.md): Using R for qualitative data analysis
 
 [Tables](r-tables.md): Various ways to generate tables in R
+
+[RMarkdown](r-rmarkdown.md): Using RMarkdown, the tool that enables you to write reports, combining code and text, in R
