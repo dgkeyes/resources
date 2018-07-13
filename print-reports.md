@@ -9,3 +9,4 @@
 * [TechnoServe annual report 2016 that Ann Emery worked on](http://www.technoserve.org/files/downloads/2016-impact-report.pdf)
 * [Paste in Place](http://www.pasteinplace.com/Projects)
 * [The Fifth Migration: A Study of Cleveland Millennials](https://www.clevelandfoundation.org/wp-content/uploads/2016/01/Cleveland-Foundation-Fifth-Migration-2016-Winter.pdf)
+* [A Walk in the Park: A Deep Dive into Tramping Incidents in New Zealand](https://issuu.com/nzmountainsafetycouncil/docs/180529.msc.com.insights-awalkinthep?e=2922887/62283383)
