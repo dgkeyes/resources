@@ -20,4 +20,5 @@ Resources for creating maps within R
 *   [Geocoder](https://geocode.localfocus.nl/)
 *   [Opencage](https://ropensci.org/tutorials/opencage_tutorial/)
 *   [ggmap](http://zevross.com/blog/2014/03/19/geocoding-with-rs-ggmap-package/)
+*   [ggspatial](https://github.com/paleolimbot/ggspatial)
 *   [Google Sheets geocoding add-on](https://chrome.google.com/webstore/detail/geocode-by-awesome-table/cnhboknahecjdnlkjnlodacdjelippfg?hl=en)
