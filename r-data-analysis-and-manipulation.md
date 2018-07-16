@@ -16,3 +16,4 @@
 
 - [tidyverse](https://www.tidyverse.org/): Set of packages for basic data manipulation. I use [tidyr](https://github.com/tidyverse/tidyr) and [dplyr](https://github.com/tidyverse/dplyr) every day.
 - [roomba](https://github.com/ropenscilabs/roomba): "This is a package to transform large, multi-nested lists into a more user-friendly format (i.e. a tibble) in R"
+- [naniar](https://github.com/njtierney/naniar): For working with missing data.
