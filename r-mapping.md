@@ -11,6 +11,7 @@ Resources for creating maps within R
 *   [ggmap](https://github.com/dkahle/ggmap)
 *   [Leaflet](https://rstudio.github.io/leaflet/)
 * [sp](https://github.com/edzer/sp/)
+* [urbnmapr](https://github.com/UrbanInstitute/urbnmapr): Package developed by Urban Institute to make US state and county maps that can be edited in ggplot. Read more [here](https://medium.com/@urban_institute/how-to-create-state-and-county-maps-easily-in-r-577d29300bb2).
 * [geofacet](https://github.com/hafen/geofacet): Make super cool faceted maps like this one:
 
 ![](https://cloud.githubusercontent.com/assets/1275592/26282369/611ab89e-3dc5-11e7-86eb-65685cc2948b.png)
