@@ -20,6 +20,8 @@ Resources I use in my work. See [dgkeyes.com](https://dgkeyes.com)
 
 [Web inspiration](web-inspiration.md): Websites I particularly like
 
+[WordPress plugins](wordpress-plugins.md)
+
 # Data viz
 [Data viz research](dataviz-research.md): Research about data visualization
 
