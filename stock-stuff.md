@@ -18,6 +18,7 @@
 # Stock video
 
 * [Pexels videos](https://videos.pexels.com/)
+* [Coverr](http://www.coverr.co/)
 
 # Stock audio
 
