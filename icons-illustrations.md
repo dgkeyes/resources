@@ -24,6 +24,7 @@
 *   [PixelIcons](https://pixelicons.com/free-pack/?ref=producthunt)
 *   [Icontellyou](https://icontellyou.com/)
 *   [RoundIcons](https://roundicons.com/)
+* [Streamline Icons](https://streamlineicons.com/)
 
 # Illustrations
 
