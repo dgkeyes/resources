@@ -9,7 +9,7 @@ Resources I use in my work. See [dgkeyes.com](https://dgkeyes.com)
 
 [Colors](colors.md): Palette generators, etc.
 
-[Icons](icons.md): Icon sets, etc.
+[Icons and Illustrations](icons-illustrations.md): Icon sets, etc.
 
 [Stock stuff](stock-stuff.md): Stock photos, video, audio, etc.
 
