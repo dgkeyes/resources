@@ -25,6 +25,7 @@
 *   [Icontellyou](https://icontellyou.com/)
 *   [RoundIcons](https://roundicons.com/)
 * [Streamline Icons](https://streamlineicons.com/)
+* [Tilda Icons](https://tilda.cc/free-icons/)
 
 # Illustrations
 
