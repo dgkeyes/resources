@@ -10,3 +10,4 @@
 - [GradPad](http://ourownthing.co.uk/gradpad.html?ref=producthunt) (gradients)
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [paletteer](https://github.com/EmilHvitfeldt/paletteer): R package that collects color palettes
+- [Picular](https://picular.co/): "Google, but for colors" (search by term, get colors back)
