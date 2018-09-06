@@ -25,6 +25,7 @@
 - [gghighlight](https://github.com/yutannihilation/gghighlight)
 - [ggbeeswarm](https://github.com/eclarke/ggbeeswarm)
 - [ggrough](https://xvrdm.github.io/ggrough/): "ggrough is an R package that converts your ggplot2 plots to rough/sketchy charts, using the excellent javascript roughjs library"
+- [ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries): Steamgraphs and more
 
 # Colors
 
