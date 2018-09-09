@@ -6,4 +6,4 @@
 - [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/): Simple and ultra lightweight. No options to configure. 
 
 # Misc
-- [Feature Request System](https://wordpress.org/plugins/ideapush/)
+- [IdeaPush](https://wordpress.org/plugins/ideapush/): Feature request system
