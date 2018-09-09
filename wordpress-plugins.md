@@ -4,3 +4,6 @@
 # Lightbox
 - [ARI Fancy Lightbox](https://wordpress.org/plugins/ari-fancy-lightbox/)
 - [WP Featherlight](https://wordpress.org/plugins/wp-featherlight/): Simple and ultra lightweight. No options to configure. 
+
+# Misc
+- [Feature Request System](https://wordpress.org/plugins/ideapush/)
