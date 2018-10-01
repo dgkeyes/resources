@@ -15,3 +15,4 @@ Shiny is probably what most people think of in relation to interactivity within 
 *   [Crosstalk](https://rstudio.github.io/crosstalk/using.html): "Crosstalk makes it easy to link multiple (Crosstalk-compatible) HTML widgets within an R Markdown page or Shiny app." You can do some basic filtering using Crosstalk without having to go the full Shiny route. 
 * [Highcharter](https://github.com/jbkunst/highcharter): Incorporates highcharts into R
 * [dygraphs](https://rstudio.github.io/dygraphs/): Interactive time series
+* [echarts4r](https://echarts4r.john-coene.com/)
