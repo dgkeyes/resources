@@ -27,6 +27,7 @@
 - [ggrough](https://xvrdm.github.io/ggrough/): "ggrough is an R package that converts your ggplot2 plots to rough/sketchy charts, using the excellent javascript roughjs library"
 - [ggTimeSeries](https://github.com/AtherEnergy/ggTimeSeries): Steamgraphs and more
 - [ggtexture](https://github.com/clauswilke/ggtextures): "This package provides functions to draw textured rectangles and bars with the grid graphics system and with ggplot2."
+- [ggpmisc](https://cran.r-project.org/web/packages/ggpmisc/vignettes/user-guide.html)
 
 # Colors
 
