@@ -13,6 +13,7 @@ Resources for creating maps within R
 * [sp](https://github.com/edzer/sp/)
 * [urbnmapr](https://github.com/UrbanInstitute/urbnmapr): Package developed by Urban Institute to make US state and county maps that can be edited in ggplot. Read more [here](https://medium.com/@urban_institute/how-to-create-state-and-county-maps-easily-in-r-577d29300bb2).
 - [tigris](https://github.com/walkerke/tigris): "tigris is an R package that allows users to directly download and use TIGER/Line shapefiles (https://www.census.gov/geo/maps-data/data/tiger-line.html) from the US Census Bureau."
+- [geojsonsf](https://github.com/SymbolixAU/geojsonsf): Convert from json to SF and back
 * [geofacet](https://github.com/hafen/geofacet): Make super cool faceted maps like this one:
 
 ![](https://cloud.githubusercontent.com/assets/1275592/26282369/611ab89e-3dc5-11e7-86eb-65685cc2948b.png)
