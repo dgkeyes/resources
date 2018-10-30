@@ -20,3 +20,4 @@
 *   [From Data to Viz](https://www.data-to-viz.com/)  
 *  [PolicyViz DatViz Cheatsheet](http://policyviz.com/wp-content/uploads/2018/08/PolicyViz-DataViz-Cheatsheet.pdf)
 *  [SCMP Arcade](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/): "The Backpage is a section dedicated to visual journalism in the South China Morning Post, here we collet most of our infographics made for print as they appeared in the newspaper since 2011 up to today"
+* https://twitter.com/storywithdata/status/1055866363858821121?s=12
