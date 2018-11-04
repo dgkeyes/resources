@@ -27,6 +27,7 @@
 * [Streamline Icons](https://streamlineicons.com/)
 * [Tilda Icons](https://tilda.cc/free-icons/)
 * [Evericons](http://www.evericons.com/)
+* [Eva Icons](https://akveo.github.io/eva-icons/)
 
 # Illustrations
 
