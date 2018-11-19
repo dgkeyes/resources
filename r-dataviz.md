@@ -32,6 +32,7 @@
 # Colors
 
 - [paletteer](https://github.com/EmilHvitfeldt/paletteer): R package that collects color palettes
+- [tinter](https://poissonconsulting.github.io/tinter/)
 
 # Fonts
 
