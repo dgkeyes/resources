@@ -34,6 +34,10 @@
 - [paletteer](https://github.com/EmilHvitfeldt/paletteer): R package that collects color palettes
 - [tinter](https://poissonconsulting.github.io/tinter/)
 
+# Shiny
+
+- [rinterface](http://www.rinterface.com/): Shiny templates
+
 # Fonts
 
 - [extrafont](https://github.com/wch/extrafont)
