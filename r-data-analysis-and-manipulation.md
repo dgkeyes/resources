@@ -18,3 +18,4 @@
 - [roomba](https://github.com/ropenscilabs/roomba): "This is a package to transform large, multi-nested lists into a more user-friendly format (i.e. a tibble) in R"
 - [naniar](https://github.com/njtierney/naniar): For working with missing data.
 - [unheadr](https://github.com/luisDVA/unheadr/): For working with data with multiple header rows.
+- [strex](https://github.com/rorynolan/strex): " Extra string manipulation functions not contained in stringr or stringi."
