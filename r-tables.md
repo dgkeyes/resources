@@ -5,3 +5,4 @@ Resources for printing data in tables within R
 * [KableExtra](http://haozhu233.github.io/kableExtra/)
 * [DT](https://rstudio.github.io/DT/)
 * [formattable](https://www.littlemissdata.com/blog/prettytables)
+* [GT](https://github.com/rstudio/gt)
