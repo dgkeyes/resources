@@ -35,3 +35,4 @@
 * [DrawKit](https://www.drawkit.io/)
 * [The Doodle Library](https://www.thedoodlelibrary.com/)
 * [Humaans](https://www.humaaans.com/)
+* [ouch](https://icons8.com/ouch)
