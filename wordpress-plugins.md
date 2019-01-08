@@ -7,3 +7,7 @@
 
 # Misc
 - [IdeaPush](https://wordpress.org/plugins/ideapush/): Feature request system
+
+# Gutenberg blocks
+- [Ghost Kit](https://ghostkit.io/)
+- [Atomic Blocks](https://atomicblocks.com/)
