@@ -20,6 +20,7 @@
 
 * [Pexels videos](https://videos.pexels.com/)
 * [Coverr](http://www.coverr.co/)
+* [Mixkit](https://mixkit.co/)
 
 # Stock audio
 
