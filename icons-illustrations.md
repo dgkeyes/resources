@@ -28,6 +28,7 @@
 * [Tilda Icons](https://tilda.cc/free-icons/)
 * [Evericons](http://www.evericons.com/)
 * [Eva Icons](https://akveo.github.io/eva-icons/)
+* [Material Icons Library](https://icons.pixsellz.io/)
 
 # Illustrations
 
