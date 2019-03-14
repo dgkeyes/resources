@@ -29,6 +29,7 @@
 * [Evericons](http://www.evericons.com/)
 * [Eva Icons](https://akveo.github.io/eva-icons/)
 * [Material Icons Library](https://icons.pixsellz.io/)
+* [Animated SVG Icons Pack](https://outlane.co/graphics/animated-svg-icons-pack/)
 
 # Illustrations
 
