@@ -39,3 +39,4 @@
 * [Humaans](https://www.humaaans.com/)
 * [ouch](https://icons8.com/ouch)
 * [Blobmaker](https://www.blobmaker.app/)
+* [ManyPixels](https://gallery.manypixels.co/)
