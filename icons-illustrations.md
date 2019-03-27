@@ -40,3 +40,4 @@
 * [ouch](https://icons8.com/ouch)
 * [Blobmaker](https://www.blobmaker.app/)
 * [ManyPixels](https://gallery.manypixels.co/)
+* [Friendly Faces](https://friendlyfaces.co/)
