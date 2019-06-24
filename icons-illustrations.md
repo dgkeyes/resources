@@ -43,3 +43,4 @@
 * [Blobmaker](https://www.blobmaker.app/)
 * [ManyPixels](https://gallery.manypixels.co/)
 * [Friendly Faces](https://friendlyfaces.co/)
+* [Comicgen](https://gramener.com/comicgen/#usage)
