@@ -15,4 +15,5 @@
 - [Trendy Palettes](https://trendypalettes.com/): "Curated collection of beautiful hand-made color palettes"
 - [colorbox.io](https://www.colorbox.io/): "Colorbox is a tool to produce color sets open-sourced by Lyft's design team"
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/)
+- [Colorgorical](http://vrl.cs.brown.edu/color)
 
