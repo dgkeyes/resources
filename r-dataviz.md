@@ -29,6 +29,7 @@
 - [ggtexture](https://github.com/clauswilke/ggtextures): "This package provides functions to draw textured rectangles and bars with the grid graphics system and with ggplot2."
 - [ggpmisc](https://cran.r-project.org/web/packages/ggpmisc/vignettes/user-guide.html)
 - [gganonymize](https://github.com/EmilHvitfeldt/gganonymize): Anonymize text and labels in ggplot
+- [Awesome ggplot2](https://github.com/erikgahner/awesome-ggplot2): "A curated list of awesome ggplot2 tutorials, packages etc."
 
 # Colors
 
