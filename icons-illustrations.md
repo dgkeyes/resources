@@ -16,6 +16,7 @@
 *   [Material.io icons](https://material.io/icons/)
 *   [Fontello](http://fontello.com/)
 *   [Heroicons](http://www.heroicons.com/)
+* [Heroicons open source](https://github.com/refactoringui/heroicons)
 *   [iOS 11 glphys](https://icons8.com/ios?ref=producthunt)
 *   [Iconbros](https://www.iconbros.com/?ref=producthunt)
 *   [Feather](https://feathericons.com/?ref=producthunt)
@@ -32,6 +33,8 @@
 * [Animated SVG Icons Pack](https://outlane.co/graphics/animated-svg-icons-pack/)
 * [OpenMoji](https://openmoji.org/)
 * [Ikonate](https://www.ikonate.com/)
+* [Milkicons](https://www.milkicons.com/)
+* [Line Awesome](https://icons8.com/line-awesome): "Swap Font Awesome for modern line icons in one line of code."
 
 # Illustrations
 
@@ -44,3 +47,7 @@
 * [ManyPixels](https://gallery.manypixels.co/)
 * [Friendly Faces](https://friendlyfaces.co/)
 * [Comicgen](https://gramener.com/comicgen/#usage)
+* [Fresh Folks](https://fresh-folk.com/)
+* [Mixxit](https://mixkit.co/free-stock-art/)
+* [illustrations.co](https://illlustrations.co/)
+* [Open Peeps](https://www.openpeeps.com/)
