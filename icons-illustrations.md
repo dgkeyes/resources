@@ -51,3 +51,4 @@
 * [Mixxit](https://mixkit.co/free-stock-art/)
 * [illustrations.co](https://illlustrations.co/)
 * [Open Peeps](https://www.openpeeps.com/)
+* [Background Generator](https://background-generator.com/)
