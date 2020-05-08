@@ -35,6 +35,7 @@
 * [Ikonate](https://www.ikonate.com/)
 * [Milkicons](https://www.milkicons.com/)
 * [Line Awesome](https://icons8.com/line-awesome): "Swap Font Awesome for modern line icons in one line of code."
+* [Line Icons](https://lineicons.com/icons/)
 
 # Illustrations
 
