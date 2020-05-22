@@ -17,4 +17,5 @@
 - [Chroma.js Color Palette Helper](https://gka.github.io/palettes/)
 - [Colorgorical](http://vrl.cs.brown.edu/color)
 - [Refactoring UI build your palette](https://refactoringui.com/previews/building-your-color-palette/)
+- [I Want Hue](https://medialab.github.io/iwanthue/)
 
