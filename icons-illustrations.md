@@ -46,6 +46,7 @@
 * [ouch](https://icons8.com/ouch)
 * [Blobmaker](https://www.blobmaker.app/)
 * [blobs](https://blobs.app/)
+* [Custom Shape Dividers](https://www.shapedivider.app/)
 * [ManyPixels](https://gallery.manypixels.co/)
 * [Friendly Faces](https://friendlyfaces.co/)
 * [Comicgen](https://gramener.com/comicgen/#usage)
