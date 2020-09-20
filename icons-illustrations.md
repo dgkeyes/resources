@@ -37,6 +37,7 @@
 * [Line Awesome](https://icons8.com/line-awesome): "Swap Font Awesome for modern line icons in one line of code."
 * [Line Icons](https://lineicons.com/icons/)
 * [Tablericons](https://tablericons.com/)
+* [MonoIcons](http://icons.mono.company/)
 
 # Illustrations
 
