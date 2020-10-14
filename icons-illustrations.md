@@ -38,6 +38,7 @@
 * [Line Icons](https://lineicons.com/icons/)
 * [Tablericons](https://tablericons.com/)
 * [MonoIcons](http://icons.mono.company/)
+* [Fork Awesome](https://forkaweso.me/Fork-Awesome/)
 
 # Illustrations
 
