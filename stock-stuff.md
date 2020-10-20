@@ -30,3 +30,4 @@
 *   [Fugue](https://icons8.com/music/)
 * [BentenSound](https://bentensound.com/): "A decentralized platform for completely free stock music for your videos"
 * [Unminus](https://www.unminus.com/)
+* [Mixkit Sound Effects](https://mixkit.co/free-sound-effects/)
