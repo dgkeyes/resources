@@ -7,3 +7,4 @@
 *   [GeoPattern](http://btmills.github.io/geopattern/)
 * [pattern.css](https://bansal.io/pattern-css)
 * [BGJar](https://bgjar.com/)
+* [PatternPad](https://patternpad.com/)
