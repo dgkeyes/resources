@@ -39,6 +39,7 @@
 * [Tablericons](https://tablericons.com/)
 * [MonoIcons](http://icons.mono.company/)
 * [Fork Awesome](https://forkaweso.me/Fork-Awesome/)
+* [Phosphor](https://phosphoricons.com/)
 
 # Illustrations
 
