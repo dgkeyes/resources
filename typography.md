@@ -10,3 +10,4 @@
 - [Better Web Type](https://betterwebtype.com/)
 - [Ficture](https://ficture.design/): Examples of fonts on websites
 - [Curated list of best fonts on Google Fonts](https://www.notion.so/flowmingo/e873b52e0cc54f2981acc430417ba61d?v=05acdd40b0564920be69f5347f619bc3)
+- [iA Quattro Mono](https://github.com/iaolo/iA-Fonts/)
