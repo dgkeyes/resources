@@ -41,6 +41,7 @@
 * [Fork Awesome](https://forkaweso.me/Fork-Awesome/)
 * [Phosphor](https://phosphoricons.com/)
 * [Remix Icon](https://remixicon.com/)
+* [Iconoir](https://iconoir.com/)
 
 # Illustrations
 
