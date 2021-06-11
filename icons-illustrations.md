@@ -42,6 +42,7 @@
 * [Phosphor](https://phosphoricons.com/)
 * [Remix Icon](https://remixicon.com/)
 * [Iconoir](https://iconoir.com/)
+* [Health Icons](https://healthicons.org/)
 
 # Illustrations
 
